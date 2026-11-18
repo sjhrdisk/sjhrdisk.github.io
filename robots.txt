@@ -1,4 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://sjhrdisk.github.io/sitemap.xml
+Sitemap: https://sjhrdisk.github.io/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

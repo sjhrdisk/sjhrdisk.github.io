@@ -1,7 +1,22 @@
-﻿# sjhrdisk.github.io
+﻿All in One SEO v5.0.1.1에서 생성된 이 파일은 llms.txt 파일로, LLM이 사이트를 색인화하는 데 사용됩니다.
 
-> 다낭 여행 및 나이트라이프 가이드 정보 제공 사이트
+# Info Hub | 국내외여행 &amp; 핫플디렉토리
 
-## Pages
-- [메인 페이지](https://sjhrdisk.github.io/): 다낭 여행 관련 안내
-- [다낭 유흥 & 에코걸 가이드](https://sjhrdisk.github.io/danang-nightlife): 다낭 야간 문화 및 관련 외부 링크 모음
+전국 숨은 명소부터 해외 인기 휴양지 가이드까지! 국내외 여행지와 핫플 라이프스타일 정보를 체계적으로 정리해 제공하는 통합 디렉토리입니다.
+
+## Sitemaps
+
+- [XML Sitemap](https://sjhrdisk.github.io/sitemap.xml): Contains all public & indexable URLs for this website.
+
+## 글
+
+- [다낭 야간 문화 & 나이트라이프 가이드](https://sjhrdisk.github.io/danang-nightlife.html) - 베트남 다낭은 낮의 아름다운 미케비치와 바나힐뿐만 아니라, 밤이 되면 더욱 화려하게 변모하는 야경과 다채로운 나이트라이프로 유명한 도시입니다. 용다리의 불쇼부터 한강 변의 루프탑 바, 헬리오 야시장, 그리고 다양한 현지 유흥 문화까지 여행객을 위한 선택지가 풍부합니다. 1. 다낭 밤을 즐기는 대표 코스 안전하고 즐거운 다낭의 밤을 즐기기 위해서는 사전에 현지 정보와 동선을 체크하는 것이 중요합니다. 한강
+
+## 페이지
+
+- [국내외여행 & 핫플디렉토리](https://sjhrdisk.github.io/) - 전국 숨은 명소부터 해외 인기 휴양지 가이드까지! 국내외 여행지와 핫플 라이프스타일 정보를 체계적으로 정리해 제공하는 통합 디렉토리입니다.
+
+## 카테고리
+
+- [post](https://sjhrdisk.github.io/category/post)
+
